@@ -75,6 +75,18 @@
 "created_at" : "4",
 "updated_at" : "10",
 "type_id" : 6
+},
+{
+"id" : 2,
+"name" : "Caramel Custard",
+"description" :  "Thalassery biryani is a rice-based dish blended with spices and chicken. As it is the only biryani recipe in Kerala cuisine, it can also be called Kerala biryani. Thalassery biryani is the only type of biryani in the whole of Kerala which uses Kaima rice for preparation.",
+"image" : "https://tmbidigitalassetsazure.blob.core.windows.net/rms3-prod/attachments/37/1200x1200/Caramel-Custard_EXPS_DIYD20_3136_E07_29_9b.jpg",
+"price" : 10,
+"star" : 4,
+"location" : "Dubai",
+"created_at" : "4",
+"updated_at" : "10",
+"type_id" : 6
 }
 ]
 }
