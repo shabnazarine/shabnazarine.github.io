@@ -53,16 +53,16 @@
 "type_id" : 2
 },
 {
-"id" : 1,
-"name" : "Chicken Biriyani",
-"description" :  "Thalassery biryani is a rice-based dish blended with spices and chicken. As it is the only biryani recipe in Kerala cuisine, it can also be called Kerala biryani. Thalassery biryani is the only type of biryani in the whole of Kerala which uses Kaima rice for preparation.",
-"image" : "https://recipesaresimple.com/wp-content/uploads/2014/08/thalassery-dum-biriyani-recipe.jpg",
-"price" : 20,
-"star" : 3,
+"id" : 5,
+"name" : "Mediterranean Cucumber Salad",
+"description" :  "This bright and healthy cucumber salad takes 4 fresh ingredients and a light citrus dressing! You can serve it next to almost anything like lemon garlic salmon, grilled chicken, beef kabobs. Four fresh ingredients make up this simple cucumber salad recipe: cucumbers, shallots, radish, and fresh dill. I toss them up in in a light dressing of Greek extra virgin olive oil and citrus.",
+"image" : "https://www.themediterraneandish.com/wp-content/uploads/2020/08/cucumber-salad-recipe-5.jpg",
+"price" : 40,
+"star" : 4,
 "location" : "Dubai",
 "created_at" : "4",
 "updated_at" : "10",
-"type_id" : 5
+"type_id" : 2
 },
 {
 "id" : 2,
