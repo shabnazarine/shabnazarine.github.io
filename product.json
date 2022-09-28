@@ -65,16 +65,16 @@
 "type_id" : 2
 },
 {
-"id" : 2,
-"name" : "Caramel Custard",
-"description" :  "Thalassery biryani is a rice-based dish blended with spices and chicken. As it is the only biryani recipe in Kerala cuisine, it can also be called Kerala biryani. Thalassery biryani is the only type of biryani in the whole of Kerala which uses Kaima rice for preparation.",
-"image" : "https://tmbidigitalassetsazure.blob.core.windows.net/rms3-prod/attachments/37/1200x1200/Caramel-Custard_EXPS_DIYD20_3136_E07_29_9b.jpg",
-"price" : 10,
+"id" : 6,
+"name" : "Chicken Pasta with White Sauce",
+"description" :  "Chicken White Sauce Pasta is Italian cuisine. Раstа is а tyрe оf fооd thаt is mаde frоm а mixture оf flоur, eggs, аnd wаter thаt is fоrmed intо vаriоus shарes аnd then bоiled. Раstа vаrieties inсlude sраghetti, mасаrоni, аnd nооdles. White Sаuсe Раstа is а simрle раstа reсiрe with а mouth-watering white sаuсe, соmmоnly knоwn аs Béсhаmel sаuсe. Simрly mаke the white sаuсe by соmbining butter, milk, flоur, аnd sрiсes, then роuring it оver the сооked раstа. White sauce pasta is simply cooked pasta mixed with a silky smooth & decadent white sauce made of milk, butter and flour. White sauce also known as Bechamel sauce has its origin from the Italian & French Cuisines. In classic culinary terms, this is what is known as a mother sauce.",
+"image" : "https://yummytreatsofficial.com/wp-content/uploads/2022/03/154A3F81-EDD7-4DEB-A97D-64D3F10F25E2_1_201_a.jpg",
+"price" : 25,
 "star" : 4,
 "location" : "Dubai",
 "created_at" : "4",
 "updated_at" : "10",
-"type_id" : 6
+"type_id" : 2
 },
 {
 "id" : 2,
