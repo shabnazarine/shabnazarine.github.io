@@ -41,18 +41,18 @@
 "type_id" : 2
 },
 {
-"id" : 2,
-"name" : "Caramel Custard",
-"description" :  "Thalassery biryani is a rice-based dish blended with spices and chicken. As it is the only biryani recipe in Kerala cuisine, it can also be called Kerala biryani. Thalassery biryani is the only type of biryani in the whole of Kerala which uses Kaima rice for preparation.",
-"image" : "https://tmbidigitalassetsazure.blob.core.windows.net/rms3-prod/attachments/37/1200x1200/Caramel-Custard_EXPS_DIYD20_3136_E07_29_9b.jpg",
-"price" : 10,
-"star" : 5,
+"id" : 4,
+"name" : "Pan Seared Steak",
+"description" :  "This Pan-Seared Steak has a garlic rosemary-infused butter that makes it taste steakhouse quality. You’ll be impressed at how easy it is to make the perfect steak – seared and caramelized on the outside, and so juicy inside. When pan-searing steak, it's best to use clarified butter or cooking oil with a high smoke point. Avocado oil, soybean oil, and canola oil are all cooking oils with high smoke points (520°F, 450°F, and, respectively, 400°F).The smoke point of clarified butter is 450°F.",
+"image" : "https://natashaskitchen.com/wp-content/uploads/2020/03/Pan-Seared-Steak-4.jpg",
+"price" : 40,
+"star" : 4,
 "location" : "Dubai",
 "created_at" : "4",
 "updated_at" : "10",
-"type_id" : 4
+"type_id" : 3
 },
-  {
+{
 "id" : 1,
 "name" : "Chicken Biriyani",
 "description" :  "Thalassery biryani is a rice-based dish blended with spices and chicken. As it is the only biryani recipe in Kerala cuisine, it can also be called Kerala biryani. Thalassery biryani is the only type of biryani in the whole of Kerala which uses Kaima rice for preparation.",
