@@ -41,28 +41,28 @@
 "type_id" : 2
 },
 {
-"id" : 2,
-"name" : "Caramel Custard",
-"description" :  "Thalassery biryani is a rice-based dish blended with spices and chicken. As it is the only biryani recipe in Kerala cuisine, it can also be called Kerala biryani. Thalassery biryani is the only type of biryani in the whole of Kerala which uses Kaima rice for preparation.",
-"image" : "https://tmbidigitalassetsazure.blob.core.windows.net/rms3-prod/attachments/37/1200x1200/Caramel-Custard_EXPS_DIYD20_3136_E07_29_9b.jpg",
-"price" : 10,
-"star" : 5,
-"location" : "Dubai",
-"created_at" : "4",
-"updated_at" : "10",
-"type_id" : 4
-},
-  {
-"id" : 1,
-"name" : "Chicken Biriyani",
-"description" :  "Thalassery biryani is a rice-based dish blended with spices and chicken. As it is the only biryani recipe in Kerala cuisine, it can also be called Kerala biryani. Thalassery biryani is the only type of biryani in the whole of Kerala which uses Kaima rice for preparation.",
-"image" : "https://recipesaresimple.com/wp-content/uploads/2014/08/thalassery-dum-biriyani-recipe.jpg",
-"price" : 20,
+"id" : 4,
+"name" : "Chicken Shawarma",
+"description" :  "Shawarma is a popular dish originating from the Middle East. It’s a popular street food that is traditionally made in the form of spiced meats that are stacked on a vertical rotisserie with thin slices shaved off as it rotates. But don’t worry! We can cook our horizontally in a good old pan or on the BBQ!. Shawarma was traditionally made with lamb, mutton and chicken though these days you see it with beef too. It’s commonly served in the form of a wrap, though in some countries you see it served on plates with sides such as seasoned rice or fries, and salads. Shawarma might be an easy snack or dinner to grab on the go, but it is far from a healthy one. The marinated strips that are shaved off from the rotating cone of meat already have fat running through them, and more likely than not, they will have been doused with yet more during the cooking process. Shawarma is a Levantine Arab meat preparation, where meat is placed on a spit and may be grilled for as long as a day. Shawarma can be served with various toppings and vegetables such as tahini, hummus, amba, or pickled cucumbers. It is mostly wrapped in pita bread.",
+"image" : "https://www.recipetineats.com/wp-content/uploads/2017/01/Chicken-Shawarma-Wrap_3.jpg",
+"price" : 25,
 "star" : 3,
 "location" : "Dubai",
 "created_at" : "4",
 "updated_at" : "10",
-"type_id" : 5
+"type_id" : 2
+},
+{
+"id" : 5,
+"name" : "Chicken Burger",
+"description" :  "A sandwich consisting of a patty made from ground chicken, served in a bun, typically hot and often with other ingredients. The chicken patty used in such a sandwich.A hot sandwich made of a patty of chicken in a bun, often with other ingredients. Mix ground chicken, 1/4 cup bread crumbs, onion, egg, and garlic in a bowl. Season with salt and pepper. Moisten hands and shape chicken mixture, 2 tablespoons at a time, into flat, oval-shaped patties. Combine chicken, bread crumbs, milk, chopped green onions, Worcestershire sauce and salt and pepper and form into patties. · barbecue or fry for approximately 5 to 20 mins. Juicy grilled chicken burgers are so easy to make and a guaranteed crowd pleaser served with all your favorite burger toppings.",
+"image" : "https://healthyishfoods.com/wp-content/uploads/2021/08/Healthyish-Foods-675.jpg",
+"price" : 25,
+"star" : 3,
+"location" : "Dubai",
+"created_at" : "4",
+"updated_at" : "10",
+"type_id" : 2
 }
 ]
 }
